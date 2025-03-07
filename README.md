@@ -4,7 +4,7 @@ Projects I completed while attending the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Spreadsheet Analysis | The project was to take Airbnb rental data, clean it up, isolate variables, create pivot tables, and idenify prime properties for investment purchase. |
+| 1 | Investment Property Spreadsheet Analysis | The project was to take Airbnb rental data, clean it up, isolate variables, create pivot tables, and idenify prime properties for investment purchase. |
 | 2 | SQL Query and Analysis | Used SQL to join tables, isolated variables, sorted data, and identified company data, weather effects on ride-share trips. |
 | 3 | Business Metric Calucation | Created conversion funnel, performed cohort analysis, identified retention rates for an e-commece store. |
 | 4 | Data Visualization | Visualized profits/losses across several categories, isolated problematic products; visualized best time/location for advertizing; visualized high return products and associated costs. |
