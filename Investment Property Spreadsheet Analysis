@@ -1,4 +1,4 @@
-# Investment Property Spreadsheet Analysis
+Investment Property Spreadsheet Analysis
 
 Goals and Objectives: The objective of this project was to determine optimal Manhattan rental properties to invest in, by analyzing Airbnb rental data. Popular neighborhoods
 and property sizes were analyzed by volume of reviews, and then listings were ranked by revenue generated within those popular criteria. The purpose of this project was to exercise 
