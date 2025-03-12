@@ -1,4 +1,4 @@
-# Return Rate Data Visualization 
+# Tableau Story: Return Rates 
 
 ## Objectives and Goals
 The goal of this project was to understand the underlying causes of product returns at a nationwide store, and to find recommendations to help reduce returns. The goal was to
