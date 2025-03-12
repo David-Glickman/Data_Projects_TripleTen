@@ -30,7 +30,7 @@ returned products are printers and phones- manufacturing issues or damage in tra
 correlated with end of year sales or beginning of school year sales. Specific customers return 100% of their orders in one state but not others, again possibly relating to
 regional/state level management issues.
 
-## Recoomendations
+## Recommendations
 Further analysis and inquiry should be conducted in high return rate states, especially the western region- particularly into management as well as supply chain. Customers with the
 highest rate of returns should be surveyed so that stakeholders can understand what drives their behavior. Most returned products should be investigated for potential recalls and 
 breakage in shipping; stakeholders should consider removing these products from the stores inventory if necessary. Broad customer base should also be surveyed/analyzed to determine
